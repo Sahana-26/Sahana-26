@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Sahana 👋
 
-<!--
-**Sahana-26/Sahana-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Backend Developer focused on Django, REST APIs, and scalable web applications.
 
-Here are some ideas to get you started:
+## Tech Stack
+- Python
+- Django
+- REST APIs
+- PostgreSQL
+- JavaScript
+- React.js
+- HTML/CSS
+- Mapbox GL JS
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Backend Development
+- Django REST Framework
+- FastAPI
+- PostgreSQL
+- System Design Basics
+
+## Featured Projects
+### Real-Time Navigation System
+Built a navigation platform with shortest path routing, live tracking, estimated time calculation, and dynamic map visualization.
+
+### Interactive Story Map
+Created an animated story map using Mapbox GL JS with fly-to transitions, polygon highlighting, and interactive geographic storytelling.
+
+## Connect With Me
+LinkedIn: your-linkedin-link
+Email: your-email
