@@ -28,5 +28,6 @@ Built a navigation platform with shortest path routing, live tracking, estimated
 Created an animated story map using Mapbox GL JS with fly-to transitions, polygon highlighting, and interactive geographic storytelling.
 
 ## Connect With Me
-LinkedIn: your-linkedin-link
-Email: your-email
+LinkedIn: https://www.linkedin.com/in/sahana26/
+Email: sahanaa2602@gmail.com
+
